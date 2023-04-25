@@ -21,6 +21,18 @@ status-website:
     - title: Creatrip Service Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-  theme: ocean
+      href: https://github.com/creatrip
+  theme: 
 
+commitMessages:
+  commitAuthorName: "Creatrip Bot"
+  commitAuthorEmail: "taewoo.lee@creatrip.com"
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
