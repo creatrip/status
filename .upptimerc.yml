@@ -26,8 +26,11 @@ status-website:
 
 commitMessages:
   commitAuthorName: "Creatrip Bot"
-  commitAuthorEmail: "taewoo.lee@creatrip.com"
-  
+  commitAuthorEmail: "bot@creatrip.com"
+
+status-website:
+  favicon: https://creatrip.com/favicon.ico
+
 # workflowSchedule:
 #   graphs: "0 0 * * *"
 #   responseTime: "0 23 * * *"
