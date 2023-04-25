@@ -17,6 +17,8 @@ status-website:
   introTitle: "Creatrip"
   introMessage: Korea Your Way
 
+  favicon: https://creatrip.com/favicon.ico
+
   navbar:
     - title: Creatrip Service Status
       href: /
@@ -28,8 +30,8 @@ commitMessages:
   commitAuthorName: "Creatrip Bot"
   commitAuthorEmail: "bot@creatrip.com"
 
-status-website:
-  favicon: https://creatrip.com/favicon.ico
+
+
 
 # workflowSchedule:
 #   graphs: "0 0 * * *"
