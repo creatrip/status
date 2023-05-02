@@ -2,9 +2,9 @@ owner: creatrip
 repo: status
 
 sites:
-  - name: Creatrip Company Website
+  - name: Creatrip Company Website(https://creatrip.co.kr)
     url: https://creatrip.co.kr
-  - name: Creatrip Service Website
+  - name: Creatrip Service Website(https://creatrip.com)
     url: https://creatrip.com
 
 status-website:
