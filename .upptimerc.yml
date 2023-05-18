@@ -1,43 +1,69 @@
 owner: creatrip
 repo: status
 
+assignees:
+  - rhea-so
+  - creatrip-ted
+
 sites:
-  - name: Creatrip Company Website(https://creatrip.co.kr)
-    url: https://creatrip.co.kr
-  - name: Creatrip Service Website(https://creatrip.com)
+  - name: Creatrip Service Website (https://creatrip.com)
     url: https://creatrip.com
 
+  - name: Creatrip Service Website - Spot (https://creatrip.com/spot)
+    url: https://creatrip.com/spot
+
+  - name: Creatrip Service Website - Stays (https://creatrip.com/stays)
+    url: https://creatrip.com/stays
+
+  - name: Creatrip Service Website - Coupon (https://creatrip.com/coupon)
+    url: https://creatrip.com/coupon
+
+  - name: Creatrip Service Website - Blog (https://creatrip.com/blog)
+    url: https://creatrip.com/blog
+
+  - name: Creatrip Service Website - UserBlog (https://creatrip.com/userblog/travel)
+    url: https://creatrip.com/userblog/travel
+
+  - name: Creatrip Service Website - Tips (https://creatrip.com/tips)
+    url: https://creatrip.com/tips
+
+  - name: Creatrip Service Website - Proxy (https://creatrip.com/purchase)
+    url: https://creatrip.com/purchase
+
+  - name: Creatrip Service Website - Proxy Sale (https://creatrip.com/purchase/sale)
+    url: https://creatrip.com/purchase/sale
+
+  - name: Creatrip Service Website - Proxy List (https://creatrip.com/purchase/list)
+    url: https://creatrip.com/purchase/list
+
+  - name: Creatrip Service Website - Proxy New (https://creatrip.com/purchase/new)
+    url: https://creatrip.com/purchase/new
+
+  - name: Creatrip Service Website - Proxy Event (https://creatrip.com/purchase/event)
+    url: https://creatrip.com/purchase/event
+
+  - name: Creatrip Service Website - Proxy Article (https://creatrip.com/purchase/article)
+    url: https://creatrip.com/purchase/article
+
+  - name: Creatrip Service Website - News (https://creatrip.com/news)
+    url: https://creatrip.com/news
+
+  - name: Creatrip Service Website - Language School (https://creatrip.com/languagecourse)
+    url: https://creatrip.com/languagecourse
+
+  - name: Creatrip Company Website (https://creatrip.co.kr)
+    url: https://creatrip.co.kr
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: light
   cname: status.creatrip.com
-  # baseUrl: /your-repo-name
-  logoUrl: 
+  logoUrl: https://creatrip.com/logo.svg
+  favicon: https://creatrip.com/favicon.ico
+
   name: Creatrip Service Status
   introTitle: "Creatrip"
   introMessage: Korea Your Way
 
-  favicon: https://creatrip.com/favicon.ico
-
-  navbar:
-    - title: Creatrip Service Status
-      href: /
-    - title: GitHub
-      href: https://github.com/creatrip
-  theme: light
-
 commitMessages:
-  commitAuthorName: "Creatrip Bot"
-  commitAuthorEmail: "bot@creatrip.com"
-
-
-
-
-# workflowSchedule:
-#   graphs: "0 0 * * *"
-#   responseTime: "0 23 * * *"
-#   staticSite: "0 1 * * *"
-#   summary: "0 0 * * *"
-#   updateTemplate: "0 0 * * *"
-#   updates: "0 3 * * *"
-#   uptime: "*/5 * * * *"
+  commitAuthorName: "HiCreatrip"
+  commitAuthorEmail: "recruit.product@creatrip.com"
