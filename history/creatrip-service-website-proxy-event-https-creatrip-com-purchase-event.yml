@@ -1,7 +1,7 @@
 url: https://creatrip.com/purchase/event
-status: down
-code: 502
-responseTime: 200
-lastUpdated: 2023-06-06T09:20:43.665Z
+status: up
+code: 200
+responseTime: 2169
+lastUpdated: 2023-06-06T09:29:30.761Z
 startTime: Thu May 18 2023 08:04:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
